@@ -1,0 +1,9 @@
+data:
+    name: hi
+    value: goods
+
+items:
+- name: one
+  value: one-value
+- name: two
+  value: two-value
